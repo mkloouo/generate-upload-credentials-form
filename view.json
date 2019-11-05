@@ -1,0 +1,8 @@
+{
+  "url": "https://cook-for-more-videos-staging.s3-us-west-2.amazonaws.com",
+  "key": "images/9b031624-3de9-467a-a339-29d7380dab82-red.jpg",
+  "policy": "eyJleHBpcmF0aW9uIjoiMjAxOS0xMS0wNlQyMToxMjoxMy42NTJaIiwiY29uZGl0aW9ucyI6W3siYnVja2V0IjoiY29vay1mb3ItbW9yZS12aWRlb3Mtc3RhZ2luZyJ9LHsiYWNsIjoicHVibGljLXJlYWQifSx7ImtleSI6ImltYWdlcy85YjAzMTYyNC0zZGU5LTQ2N2EtYTMzOS0yOWQ3MzgwZGFiODItcmVkLmpwZyJ9XX0=",
+  "signature": "TjELgUsIM7lU7n/rrXDVmqKqqzg=",
+  "acl": "public-read",
+  "AWSAccessKeyId": "AKIAJNO4OYKR34U5YQRQ"
+}

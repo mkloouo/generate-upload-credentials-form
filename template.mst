@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mustache Template</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <form action="{{url}}" method="POST" enctype="multipart/form-data">
+      <input type="hidden" name="key" value="{{key}}" /><br />
+      <input type="hidden" name="acl" value="{{acl}}" />
+      <input type="hidden" name="policy" value="{{policy}}" />
+      <input type="hidden" name="signature" value="{{signature}}" />
+      <input type="hidden"   name="AWSAccessKeyId" value="{{AWSAccessKeyId}}" />
+
+      File: 
+      <input type="file"   name="file" /> <br />
+      <!-- The elements after this will be ignored -->
+      <input type="submit" name="submit" value="Upload to Amazon S3" />
+    </form>
+  </body>
+</html>
